@@ -31,8 +31,13 @@
 <div style="text-align:left;">
   <h2 style="border-bottom:1px solid #21262d; color:#c9d1d9;"> 🧑‍💻 Contact me </h2><br/>
   <div style="text-align:left;">
+    <!-- Notion -->
     <a href="https://www.notion.so/124d99908c52802a9a28de0a031e5bea" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/%EB%B3%91%ED%98%84-%EC%A1%B0-668816385/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
   </div>
   <br/>
