@@ -40,8 +40,8 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=choBottle&show_icons=true&theme=vibrant" alt="Stats" />
+  <img src="https://github-readme-stats-stats-sigma-five.vercel.app/api?username=choBottle&show_icons=true&theme=vibrant" alt="Stats" />
   
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=choBottle&layout=compact&theme=vibrant" alt="Languages" />
+  <img src="https://github-readme-stats-stats-sigma-five.vercel.app/api/top-langs/?username=choBottle&layout=compact&theme=vibrant" alt="Languages" />
   
 </div>
