@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1994" height="1570" alt="image" src="https://github.com/user-attachments/assets/ce02125e-0baf-4623-9872-ac105e99c6f3" /><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome%20to%20my%20GitHub!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
@@ -44,8 +44,8 @@
 </div>
 
 <div align="left">
-  <h2 style="border-bottom: 1px solid #21262d;">🏅 Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=choBottle&show_icons=true&theme=transparent&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_border=true" alt="choBottle's GitHub Stats" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=choBottle&show_icons=true&theme=vibrant" alt="Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choBottle&layout=compact&theme=transparent&title_color=c9d1d9&text_color=8b949e&hide_border=true" alt="choBottle's Top Langs" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=choBottle&layout=compact&theme=vibrant" alt="Languages" />
+  
 </div>
